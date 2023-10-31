@@ -2,7 +2,7 @@
 import random
 number = random.randint(-10, 10)
 
-#Print the number
+'# 'Print the number
 print(f'The number: {number}')
 
 if number > 0:
